@@ -1,0 +1,19 @@
+Privacy Policy for TV-Multi-Watchlist
+Effective Date: 12/01/2024
+
+TV-Multi-Watchlist values your privacy. This Privacy Policy explains how we handle any data in relation to the use of our Chrome extension.
+
+Data Collection
+We do not collect, store, or share any personal or non-personal information from users of this extension. The extension operates locally on your browser and does not transmit any data to external servers or third parties.
+Permissions
+
+The permissions requested by this extension are solely used to enable its core functionality and are not used to collect data.
+
+Third-Party Services:
+Since this extension does not collect or process data, no third-party services are used for analytics, advertising, or other purposes.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. If changes are made, the updated policy will be posted here with the revised effective date. Continued use of the extension after changes indicates your acceptance of the updated policy.
+Contact Us
+
+If you have any questions about this Privacy Policy or the extension, feel free to contact us at delvingintotrade@gmail.com.
